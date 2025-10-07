@@ -1,12 +1,21 @@
 {
   "name": "activity-ci-46451",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple Node.js project with Jest testing and GitHub Actions CI pipeline.",
+  "main": "sum.js",
   "scripts": {
     "test": "jest"
-
   },
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "nodejs",
+    "jest",
+    "ci",
+    "github-actions",
+    "testing"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
